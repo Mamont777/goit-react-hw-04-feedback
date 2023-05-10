@@ -1,0 +1,14 @@
+.wrapper {
+    width: 400px;
+    margin: 30px auto;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: beige;
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 10px 15px 19px -4px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 15px 19px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 15px 19px -4px rgba(0, 0, 0, 0.75);
+    text-shadow: -1px 4px 4px rgba(0, 0, 0, 0.6);
+}
